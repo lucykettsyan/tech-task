@@ -23,6 +23,6 @@ The task is done using Laravel, React, Inertia.js
 ### Commands to run further
 - composer install
 - npm install
-- .env is left as it is for ease of installation 
+- .env and .sqlite are left as they are for ease of installation 
 - php artisan serve
 - npm run dev
